@@ -2,7 +2,7 @@
 
 Welcome to my personal roadmap in mastering Data Science and AI. This repository documents essential concepts in Python, statistics, machine learning, and deep learning, along with hands-on project implementation.
 
----
+--- 
 
 ## 📌 Python Basics
 
